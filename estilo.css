@@ -1,0 +1,14 @@
+body{
+    width: 100vw;
+    text-align: center;
+    background-color: aqua;
+}
+ div.num{
+    text-align: center;
+}
+
+select{
+    background-color: aquamarine;
+    text-align: center;
+    width: 190px;
+}
