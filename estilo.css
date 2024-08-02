@@ -11,5 +11,6 @@ body{
 select{
     background-color: aquamarine;
     text-align: center;
+    height: 100px ;
     width: 190px;
 }
