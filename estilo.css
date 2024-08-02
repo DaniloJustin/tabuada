@@ -1,5 +1,4 @@
 body{
-    height: 90vh;
     width: 100vw;
     text-align: center;
     background-color: aqua;
@@ -11,5 +10,6 @@ body{
 select{
     background-color: aquamarine;
     text-align: center;
+    height: 500px;
     width: 190px;
 }
