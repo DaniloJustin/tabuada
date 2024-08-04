@@ -12,8 +12,9 @@ input {
 }
 
 select{
+    height: 90px;
+    width: 200px;
     background-color: aquamarine;
     text-align: center;
-    height: 90px;
-    width: 190px;
+    
 }
